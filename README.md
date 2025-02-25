@@ -127,4 +127,4 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
 
 ### 🤝 Let's collaborate:
 
-Feel free to connect with me and work on some amazing projects together! 😄
+Feel free to connect with me and work on some amazing projects together!
