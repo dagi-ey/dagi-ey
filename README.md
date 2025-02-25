@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 - **[LinkedIn](https://www.linkedin.com/in/dagmawi-eyob-10b494260/)**
-- **[Whatsup](https://wa.me/251982278167)**
+- **[Whatsapp](https://wa.me/251982278167)**
 - **[Glob Tech Africa](https://globtechafrica.com)**
 
 <div id="badges" align="center">
