@@ -50,7 +50,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="html5"
       width="40"
       height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- CSS3 -->
@@ -60,7 +60,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="css3"
       width="40"
       height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- JavaScript -->
@@ -70,7 +70,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="javascript"
       width="40"
       height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- React -->
@@ -80,7 +80,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="react"
       width="40"
       height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- Bootstrap -->
@@ -90,7 +90,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="bootstrap"
       width="40"
       height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- WordPress -->
@@ -100,17 +100,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="wordpress"
       width="40"
       height="40"
-    />
-  </a>
-
-  <!-- Shopify -->
-  <a href="https://www.shopify.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Shopify_logo_2018.svg"
-      alt="shopify"
-      width="40"
-      height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 
   <!-- Facebook Advertising -->
@@ -120,17 +110,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
       alt="facebook advertising"
       width="40"
       height="40"
-    />
-  </a>
-
-  <!-- AI Chatbot -->
-  <a href="https://www.ibm.com/watson/products-services/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7c/IBM_Watson_logo.svg"
-      alt="ai chatbot"
-      width="40"
-      height="40"
-    />
+      style="transition: transform 0.2s;"/>
   </a>
 </p>
 
@@ -139,7 +119,7 @@ Visit our website: [Glob Tech Africa](https://globtechafrica.com)
 ### 🚀 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagi-ey&show_icons=true&hide=prs&count_private=true&hide_title=true&theme=radical" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagi-ey&langs_count=5&theme=radical" />
 </div>
 
