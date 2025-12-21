@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dagmawi Eyob
 
-### CEO of [Glob Tech Africa](https://globtechafrica.com) - A Software Company Specializing in Website Development, SEO, AI Chatbots, Facebook Advertising, and More 🌍
+### CEO of [Mebreq](https://mebreq.com) - A Software Company Specializing in Website Development, SEO, AI Chatbots, Facebook Advertising, and More 🌍
 
 ---
 
@@ -37,7 +37,7 @@ We specialize in providing high-quality software solutions, including:
 - **Facebook Advertising** for targeted marketing
 - **Social Media Management** to grow your presence online
 
-Visit our website: [Glob Tech Africa](https://globtechafrica.com)
+Visit our website: [Mebreq](https://Mebreq.com)
 
 ---
 
