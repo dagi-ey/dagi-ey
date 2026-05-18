@@ -29,12 +29,12 @@
 
 ---
 
-### 🚀 What We Do at **Glob Tech Africa**:
+### 🚀 What We Do at **MebreQ**:
 We specialize in providing high-quality software solutions, including:
 - **Website Development & Management**
 - **SEO Optimization** to boost your site's visibility
 - **AI Chatbots** to enhance customer interactions
-- **Facebook Advertising** for targeted marketing
+- **Paid Advertising** (Meta Ad, Google Ad, Pinterest Ad & Tiktok Ad)for targeted marketing
 - **Social Media Management** to grow your presence online
 
 Visit our website: [Mebreq](https://Mebreq.com)
