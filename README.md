@@ -36,7 +36,7 @@ I design and engineer elite digital systems that convert traffic into revenue. T
   &nbsp;
   <!-- Google Search Console -->
   <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="google search console" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google-search-console&logoColor=white" alt="google search console" height="35"/>
   </a>
   &nbsp;
   <!-- JavaScript -->
@@ -93,7 +93,7 @@ I design and engineer elite digital systems that convert traffic into revenue. T
 ### 📊 System Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagi-ey&langs_count=5&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagi-ey&layout=compact&theme=radical&hide_border=true" alt="Top Languages Dagmawi Eyob" />
 </div>
 
 ---
