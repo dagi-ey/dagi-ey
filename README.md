@@ -93,7 +93,7 @@ I design and engineer elite digital systems that convert traffic into revenue. T
 ### 📊 System Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagi-ey&layout=compact&theme=radical&hide_border=true" alt="Top Languages Dagmawi Eyob" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dagi-ey&layout=compact&theme=radical&hide_border=true" alt="Top Languages Dagmawi Eyob" />
 </div>
 
 ---
