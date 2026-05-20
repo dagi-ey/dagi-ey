@@ -107,7 +107,7 @@ We deploy technical systems for companies looking for leverage, scale, and clean
 *   **Executive Network:** [LinkedIn](https://www.linkedin.com/in/dagmawi-eyob/)
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/dagmawi-eyob-10b494260/" target="_blank">
+  <a href="https://www.linkedin.com/in/dagmawi-eyob/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://web.facebook.com/mebreqhq" target="_blank">
