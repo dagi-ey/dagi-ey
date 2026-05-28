@@ -1,7 +1,9 @@
 # Hi 👋, I'm Dagmawi Eyob
 
-### Founder & Digital Solutions Architect at [MebreQ](https://mebreq.com)
+### Founder & Digital Solutions Architect at [MebreQ.com](https://mebreq.com)
 **Building High-Conversion Technical Infrastructure, Advanced E-Commerce Architecture, and Scalable Growth Funnels.**
+
+### Personal Portfolio Web [Click Here](https://ceo.mebreq.com)
 
 ---
 
