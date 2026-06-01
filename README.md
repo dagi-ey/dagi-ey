@@ -105,7 +105,7 @@ I design and engineer elite digital systems that convert traffic into revenue. T
 We deploy technical systems for companies looking for leverage, scale, and clean execution.
 
 *   **Corporate Entity:** [Mebreq](https://mebreq.com)
-*   **Direct Pipeline:** [WhatsApp Broadcast](https://wa.me/251982278167)
+*   **Direct Pipeline:** [WhatsApp Business](https://wa.me/251982278167)
 *   **Executive Network:** [LinkedIn](https://www.linkedin.com/in/dagmawi-eyob/)
 
 <div id="badges" align="center">
